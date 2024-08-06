@@ -2,5 +2,9 @@
 title: MH Research
 ---
 
-Here is my quest to restart research activities aka Personal PhD in the area of digital tools for mental wellbeing.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+Developing digital tools for mental wellbeing.
+
+
+### ETH Zürich Digital Trial Intervention Platform
+
+[dTIP](https://dtip.ethz.ch/) is an ETH technology platform created to support researchers in clinical evidence generation and support entrepreneurs with the regulatory aspects of product development.
