@@ -10,6 +10,6 @@ title: Links
 
 ## Cybersecurity
 
-### Medcrypt
+### Medcrypt
 
 Medcrypt helps healthcare technology companies ensure medical devices are secure by design. 
